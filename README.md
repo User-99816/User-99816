@@ -16,7 +16,8 @@
 </p>
 <li>
   🌱 Am Currently learning <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-  😂 Still building a billion 💵 company
+  
 </li>
+<li>😂 Still building a billion 💵 company</li>
 
 
