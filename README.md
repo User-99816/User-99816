@@ -10,5 +10,9 @@
 <p>
    <img src="https://skillicons.dev/icons?i=react,js,python,nextjs,html,css" />
 </p>
+<span>Backend</span>
+<p>
+   <img src="https://skillicons.dev/icons?i=python , express.js ," />
+</p>
 
 
