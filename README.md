@@ -12,7 +12,7 @@
 </p>
 <span>Backend</span>
 <p>
-   <img src="https://skillicons.dev/icons?i=python , express.js ," />
+   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 
